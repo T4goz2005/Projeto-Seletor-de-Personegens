@@ -15,7 +15,7 @@
 
 @media (max-width: 767px){
     body::before {
-        background-image: url(/src/IMG/bg-mobile.jpg);
+        background-image: url(src/IMG/bg-mobile.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
