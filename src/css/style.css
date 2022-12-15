@@ -6,7 +6,7 @@ body {
 
 body::before {
     content: '';
-    background-image: url(/src/IMG/1cYrMYF.gif);
+    background-image: url(src/IMG/1cYrMYF.gif);
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
