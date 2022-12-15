@@ -149,7 +149,7 @@ main {
 .selecao-personagens .lista-de-personagem .personagem.jogador-2-selecionado .tag{
     display: block;
     animation: text-glowing-red .3s ease-in-out infinite;
-    animation-direction: alternate; 
+    animation-direction: alternate;
 }
 
 
