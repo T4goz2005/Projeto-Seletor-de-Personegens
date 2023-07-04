@@ -1,5 +1,6 @@
 body {
     font-family: 'ssf4', Courier, monospace;
+    background-color: #fff;
 }
 
 body::before {
