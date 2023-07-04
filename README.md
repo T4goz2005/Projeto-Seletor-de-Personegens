@@ -11,6 +11,6 @@ foi usado para fazer esse modelo Html, css e js. ✨
   <li>HTML5</li>
   <li>CSS3</li>
   <li>JAVASCRIPT</li>
-</ul>ul>
+</ul>
 
 link: https://t4goz2005.github.io/Projeto-Seletor-de-Personegens/
