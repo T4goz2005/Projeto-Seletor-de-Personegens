@@ -1,12 +1,10 @@
 body {
     font-family: 'ssf4', Courier, monospace;
-    background-color: black
-    ;
 }
 
 body::before {
     content: '';
-    background-image: url(./src/IMG/1cYrMYF.gif);
+    background-image: url(src/IMG/1cYrMYF.gif);
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
